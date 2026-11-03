@@ -15,8 +15,8 @@ SwiftUI.
 ## Run
 
 ```bash
-git clone https://github.com/dpogonia/CoinFlipper.git
-cd CoinFlipper
+git clone https://github.com/dpogonia/CoinFlipper-HUDSON.git
+cd CoinFlipper-HUDSON
 open CoinFlipper.xcodeproj
 ```
 
